@@ -61,6 +61,7 @@ const resetActive = () => {
 		)
 		.easing(TWEEN.Easing.Exponential.InOut)
 		.start();
+
 	activeIndex = -1;
 };
 
